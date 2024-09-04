@@ -1,7 +1,10 @@
-repository-name
-# Repository Name
+designrr
 
-Based on "ABC" at https://www.abc.com/
+# Designrr
+
+> The first A.I. writing assistant specifically designed for non-fiction content
+
+Based on "Designrr" at https://go2.designrr.io/
 
 ## 100 - Introduction
 
